@@ -89,10 +89,14 @@ Instalamos dependencias con el comando pip:
 
 # Paso 5: Cambiar Kernel de Jupyter
 
-Simplemente vamos a Visual Studio Code y en la parte superior izquierda donde aparece una version de python como 3.11.9, dar click y seleccionar entornos de python
+Simplemente vamos a Visual Studio Code y al abrir tu archivo de Jupyter, en la parte superior derecha donde diga "_Seleccionar kernel_", vas a dar click, lo que desplegará un menú para que elijas los entornos de python a usar.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Paso 1. Seleccionar el kernel de python.](https://drive.google.com/uc?export=view&id=1nNYSDzYJVX-VsaugYfLb-EsZsQ68GW1e)
 
-Escoger la version de pyenv
+Escoger el entorno de python (pyenv), en su versión 3.11.9 (o la que hayas elegido usar). 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Paso 2. Escoger la version a usar.](https://drive.google.com/uc?export=view&id=16qRTJrs28MvLwanNWlEhzPLxxB7PpyHm)
+
+Por último, verifica que se haya seleccionado correctamente, arriba a la derecha donde decía "_Seleccionar kernel_", ahora debería aparecer la versión del entorno de python que hayas escogido.
+
+![Paso Final. Verificar selección de entorno.](https://drive.google.com/uc?export=view&id=1FRaIS-7VV9bwY3Qhdrs7F-0odUlzQqTd)
